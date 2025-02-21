@@ -1,3 +1,5 @@
+var d = document;
+
 var game = prompt("가위, 바위, 보 중 선택하여 입력", "ex)가위");
 var gameNum;
 switch (game) {
